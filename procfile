@@ -1,1 +1,1 @@
-worker: golang bot.js
+web: bin/amongusdiscord
